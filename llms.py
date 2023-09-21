@@ -166,7 +166,7 @@ Summarized solution:"""
 
         """
 
-        # Downliad and index/embed the documents
+        # Download and index/embed the documents
         self.index = download_and_index_documents(urls)
         self.small_problems = self.break_down_problem()
         self.solutions = self.brainstorm_all_problems()
