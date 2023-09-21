@@ -10,7 +10,8 @@ Finally, it will combine all the found solutions into one "big" solution for the
 
 A simple diagram with the workflow:
 
-![image](https://github.com/ergv03/chain-of-thoughts-with-rag/assets/23053920/514bcb0e-1d33-4050-9cdc-f5bf09a9fc17)
+![image](https://github.com/ergv03/chain-of-thoughts-with-rag/assets/23053920/d9db7676-0267-48ce-b152-1425b7df9c71)
+
 
 
 Original Problem and Documents (in green) are provided by the user.
@@ -29,4 +30,5 @@ Add your OpenAI API key in the sidebar, the URLs of the HTML/PDF documents that 
 
 **Example:**
 
-<img width="1732" alt="image" src="https://github.com/ergv03/chain-of-thoughts-with-rag/assets/23053920/61e95689-0f4a-4e1d-b64c-877561b5fc19">
+<img width="1741" alt="image" src="https://github.com/ergv03/chain-of-thoughts-with-rag/assets/23053920/5ddf7626-a389-4033-899f-425179c102dd">
+
